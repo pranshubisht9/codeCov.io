@@ -6,6 +6,13 @@ In this colaboratory project we have tried to make a look alike clone of Ketto.o
 
 <!-- About: Ketto is an Online Crowdfunding Platform and Website in India for fundraising of Social, Charity, Movies, Music, Personal and Creative causes. -->
 
+## My area of responsibility:
+
+- Built login/Sign-up page.
+- Verified existing users using local storage.
+- Developed contact page and responsive.
+- Created a popup feature for alert options.
+
 ## Run Locally
 
 Clone the project
