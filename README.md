@@ -1,4 +1,4 @@
-# ketto.org (Clone)
+# codecov.io (Clone)
 
 Project: Make a clone of https://about.codecov.io/ site
 
@@ -11,7 +11,7 @@ In this colaboratory project we have tried to make a look alike clone of Ketto.o
 Clone the project
 
 ```bash
-  git clone https://github.com/pranshubisht9/ketto.org.git
+  git clone https://github.com/pranshubisht9/codeCov.io.git
 ```
 
 ## Technologies we used
@@ -21,8 +21,6 @@ In this project we have used the following technologies:
 - HTML
 - CSS
 - JavaScript
-
-Along with that, in order to fetch data we used API our own make hardcode API
 
 ## Libraries Used
 
