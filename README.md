@@ -8,7 +8,7 @@ In this colaboratory project we have tried to make a look alike clone of Ketto.o
 
 ## My area of responsibility:
 
-- Built login/Sign-up page.
+- Built login and Sign-up page.
 - Verified existing users using local storage.
 - Developed contact page and responsive.
 - Created a popup feature for alert options.
