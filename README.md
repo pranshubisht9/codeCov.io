@@ -1,9 +1,3 @@
-Project Code: resilient-gate-1588
-
-Website: https://about.codecov.io/
-
-About: Codecov is the leading code coverage reporting solution. Codecov gives companies actionable coverage insights when and where they need them to ensure they are shipping quality code.
-
 # ketto.org (Clone)
 
 Project: Make a clone of https://about.codecov.io/ site
