@@ -4,13 +4,51 @@ Website: https://about.codecov.io/
 
 About: Codecov is the leading code coverage reporting solution. Codecov gives companies actionable coverage insights when and where they need them to ensure they are shipping quality code.
 
+# ketto.org (Clone)
 
-Member:-1 fw20_1052 - Nasir Imam
+Project: Make a clone of https://about.codecov.io/ site
 
-Member:-2 fw20_0423 - Pranshu Singh Bisht
+In this colaboratory project we have tried to make a look alike clone of Ketto.org Website. With our efforts and the technology stack, that we have learned till now in Unit-2 in Masai School, we were able to clone the front end with similar looks and features.
 
-Member:-3 fw20_0224 - Aman Singh Chauhan
+<!-- About: Ketto is an Online Crowdfunding Platform and Website in India for fundraising of Social, Charity, Movies, Music, Personal and Creative causes. -->
 
-Member:-4 fw19_0813 - Vijaj Bodhgaya
+## Run Locally
 
-Member:-5 fw19_0813 - Param Ravish
+Clone the project
+
+```bash
+  git clone https://github.com/pranshubisht9/ketto.org.git
+```
+
+## Technologies we used
+
+In this project we have used the following technologies:
+
+- HTML
+- CSS
+- JavaScript
+
+Along with that, in order to fetch data we used API our own make hardcode API
+
+## Libraries Used
+
+All the image and icon links have been taken from the main website ( https://about.codecov.io/ )
+
+## Team Members and Contributors :
+
+### fw20_0423 - Pranshu Singh Bisht
+
+### fw20_0224 - Aman Singh Chauhan
+
+### fw19_0813 - Param Ravish
+
+### fw19_0813 - Vijaj Bodhgaya
+
+### fw20_1052 - Nasir Imam
+
+
+
+
+
+
+  
